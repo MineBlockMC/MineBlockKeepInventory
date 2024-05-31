@@ -1,0 +1,9 @@
+name: MineBlockKeepInventory
+version: '${project.version}'
+main: org.mineblock.keepinventory.Main
+api-version: '1.13'
+author: MineBlock Team.
+website: www.mineblock.cc
+prefix: MineBlockPlugin
+description: MineBlock 死亡不掉落
+load: STARTUP
